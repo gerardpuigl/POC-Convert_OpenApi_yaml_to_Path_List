@@ -1,4 +1,4 @@
-# POC-Convert_OpenApi_yaml_to_Path_List
+# POC - Convert OpenApi.yaml to Path List
 
 Proof of concept to convert an OpenApi.ymal to a List of Paths with the existing methods.
 
