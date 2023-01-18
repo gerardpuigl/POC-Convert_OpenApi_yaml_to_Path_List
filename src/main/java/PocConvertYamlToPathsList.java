@@ -7,10 +7,11 @@ public class PocConvertYamlToPathsList {
 
   public static void main(String[] args) throws Exception {
 
-    exectuePOC();
+    executePOC();
+
   }
 
-  private static void exectuePOC() {
+  private static void executePOC() {
     YamlFileConverter yamlFileConverter = new YamlFileConverter();
 
     List<Path> paths = yamlFileConverter.getPathsList();
