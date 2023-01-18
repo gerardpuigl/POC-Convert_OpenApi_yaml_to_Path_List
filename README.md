@@ -4,7 +4,7 @@ Proof of concept to convert an OpenApi.ymal to a List of Paths with the existing
 
 The objetive is use this list by QA team to have de % of endpoints covered by automatic tests.
 
-Get a method list:
+Get a paths and method list:
 
 ```
 /api/customers/{customer-id}#get
